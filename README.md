@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>bhop_redo</code></h1>
+  <h1><code>bhop redo</code></h1>
   <p>
     <strong>Informations about the project</strong>
   </p>
