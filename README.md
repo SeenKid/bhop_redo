@@ -1,7 +1,7 @@
 <div align="center">
   <h1><code>bhop_redo</code></h1>
   <p>
-    <strong>Short Description</strong>
+    <strong>Informations about the project</strong>
   </p>
   <p style="margin-bottom: 0.5ex;">
     <img
